@@ -37,7 +37,7 @@ starknet-devnet:
 asdf list-all starknet-devnet
 
 # Install specific version
-asdf install starknet-devnet 0.0.4
+asdf install starknet-devnet 0.0.5
 
 # Set a version globally (on your ~/.tool-versions file)
 asdf global starknet-devnet 0.0.4
