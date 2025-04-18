@@ -40,7 +40,7 @@ asdf list-all starknet-devnet
 asdf install starknet-devnet 0.2.4
 
 # Set a version globally (on your ~/.tool-versions file)
-asdf global starknet-devnet 0.2.4
+asdf set starknet-devnet 0.2.4
 
 # Now starknet-devnet commands are available
 starknet-devnet --version
