@@ -34,7 +34,7 @@ starknet-devnet:
 
 ```shell
 # Show all installable versions
-asdf list-all starknet-devnet
+asdf list all starknet-devnet
 
 # Install specific version
 asdf install starknet-devnet 0.4.0
